@@ -1,2 +1,2 @@
 # kia
-https://valeryzhvalevski.github.io/kia/
+https://valeryzhvalevski.github.io/kia/index.html
